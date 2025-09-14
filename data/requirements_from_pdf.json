@@ -1,0 +1,2596 @@
+[
+  {
+    "id": "_",
+    "title": "רישיון העסק, מבקש הרישיון, המחזיק בעסק או האדם שבהשגחתו, בפיקוחו \nאו בניהולו פועל העסק",
+    "description": "רישיון העסק, מבקש הרישיון, המחזיק בעסק או האדם שבהשגחתו, בפיקוחו \nאו בניהולו פועל העסק.  כל אחד מאלה, לפי העניין: \n)1( ראש רשות הרישוי שבתחומה נמצא העסק, או עובד בכיר אחר מקרב  עובדיה שהוא \nהסמיך לעניין זה",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "office"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.577Z"
+  },
+  {
+    "id": "_1",
+    "title": "רישיון \n1",
+    "description": "רישיון \n1.10.1....",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.577Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון עסק, היתר זמני או היתר מזורז",
+    "description": "רישיון עסק,...",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.577Z"
+  },
+  {
+    "id": "_1968",
+    "title": "רישיון  העסק,  לרבות  הוספת  בעל  או  גריעתו,  וכן \nהעברת שליטה בתאגיד כמשמעותה בחוק ניירות ערך, התשכ\"ח-1968",
+    "description": "רישיון  העסק,  לרבות  הוספת  בעל  או  גריעתו,  וכן \nהעברת שליטה בתאגיד כמשמעותה בחוק ניירות ערך, התשכ\"ח-1968.  \n \nפרק 2 - תנאים רוחביים \n \nהוראות לצד המפרט האחיד \n2",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.577Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון מהגשת בקשה, ומקבלת אישורים \nמתאימים לפי החוק ולפי כל דין",
+    "description": "רישיון מהגשת בקשה, ומקבלת אישורים \nמתאימים לפי החוק ולפי כל דין.  מפרט זה אינו מהווה רישיון",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.577Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון \nעובר על החוק, ויהא צפוי לעונשים הקבועים בחוק",
+    "description": "רישיון \nעובר על החוק, ויהא צפוי לעונשים הקבועים בחוק.  אין באמור במפרט זה כדי לפטור בעל עסק מקיום דרישות כל דין החל עליו, אף אם הוראות \nהדין אינן מופיעות במפרט",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "office"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.577Z"
+  },
+  {
+    "id": "_1215_",
+    "title": "רישיון  יצורפו,  לאחר  שנחתמו  בידי  בעל  מקצוע  מוסמך:  תרשים  סביבה,  מפה \nמצבית  ותכנית  עסק,  כמפורט  בתקנות  12-15 לתקנות",
+    "description": "רישיון  יצורפו,  לאחר  שנחתמו  בידי  בעל  מקצוע  מוסמך:  תרשים  סביבה,  מפה \nמצבית  ותכנית  עסק,  כמפורט  בתקנות  12-15 לתקנות.   בנוסף,  יצורפו  לבקשה  מסמכים \nהמפורטים במפרט זה, אם ניתן להגישם בעת הגשת הבקשה",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון לתקופה ארוכה מתוקפו של ההיתר",
+    "description": "רישיון לתקופה ארוכה מתוקפו של ההיתר",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון יוצג בעסק במקום נראה לעין",
+    "description": "רישיון יוצג בעסק במקום נראה לעין",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_7_",
+    "title": "רישיון לפי סעיף 7 לחוק",
+    "description": "רישיון לפי סעיף 7 לחוק.  המבקש רישיון, או בעל רישיון, רשאי להגיש השגה על תנאי או מסמך שנדרש ממנו במפרט \nזה,  למעט  תנאי  או  מסמך  שנקבע  בחיקוק",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "cafe",
+      "office"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": "323 ₪",
+    "timeToComplete": "30 ימים",
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_2",
+    "title": "רישיון או פקיעתו \n2",
+    "description": "רישיון או פקיעתו \n2.10.1. לא יהיה תוקף ל...",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון עסק או להיתר זמני אם חלו שינויים מהרשום בו או במסמכים \nהמצורפים לו לגבי סוג העסק, לרבות מבניו, שטחו, הבעלות בו, מיקומו וסוג העיסוק",
+    "description": "רישיון עסק או ל...",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון עסק יבוטל אם נעשו שינויים בעסק בהשוואה לתרשים הסביבה, המפה המצבית או \nתכנית העסק, לאחר שניתנה לבעל הרישיון הזדמנות להשמיע את טענותיו",
+    "description": "רישיון עסק יבוטל אם נעשו שינויים בעסק בהשוואה לתרשים הסביבה, המפה המצבית או \nתכנית העסק, לאחר שניתנה לבעל ה",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_1_",
+    "title": "רישיון  מטעמים  אחרים,  לאחר  התייעצות  עם  נותן  אישור \nהמופקד על קיום מטרה מן המטרות האמורות בסעיף 1)א( לחוק, שאי קיומה משמש עילה \nלביטול, ולאחר שניתנה לבעל הרישיון הזדמנות להשמיע את טענותיו",
+    "description": "רישיון  מטעמים  אחרים,  לאחר  התייעצות  עם  נותן",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_20_",
+    "title": "רישיון או הפרה של תקנות הנוגעות לעניין(, ניתן להוציא \nלעסק צו הפסקה מנהלי לפי סעיף 20 לחוק",
+    "description": "רישיון או הפרה של תקנות הנוגעות לעניין(, ניתן להוציא \nלעסק צו הפסקה מנהלי לפי סעיף 20 לחוק.  הוראות במפרט האחיד\n \n2",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון  ובעלי \nתפקיד נוספים בעסק",
+    "description": "רישיון  ובעלי \nתפקיד נוספים בעסק.  תוצאות הבדיקה יכולות להוות עילה לפסילת הבקשה",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": 200,
+    "businessTypes": [
+      "retail"
+    ],
+    "requiredFeatures": [
+      "food_service",
+      "outdoor_seating"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_8",
+    "title": "רישיון עסק לפי פריט \n8",
+    "description": "רישיון עסק לפי פריט \n8.  עסק עד 200 מקומות ישיבה ללא מכירה, הגשה וצריכה של משקאות משכרים פטור מהדרישות \nהמופיעות בפריט זה",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": 200,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail",
+      "office"
+    ],
+    "requiredFeatures": [
+      "food_service",
+      "alcohol_serving",
+      "outdoor_seating"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": "משרד הבריאות",
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_11_1_12500_1250",
+    "title": "רישיון יצורפו המסמכים הבאים, בנוסף לכל מסמך הנדרש על פי כל דין: \n\n11 \n \n)1( תכנית אדריכלית וסניטרית שתכלול:  \n)א( תרשים סביבה בקנה מידה  1:2500 ותכנית מגרש בקנה מידה 1:250",
+    "description": "רישיון יצורפו המסמכים הבאים, בנוסף לכל מסמך הנדרש על פי כל דין: \n\n11 \n \n)1( תכנית אדריכלית וסניטרית שתכלול:  \n)א( תרשים סביבה בקנה מידה  1:2500 ותכנית מגרש בקנה מידה 1:250.     \n2( מערכות אספקת מים )מי שתייה, כיבוי אש, השקיה ועוד( - צינורות, אבזרי \nמים, כולל אבזרים למניעת זרימת מים חוזרת",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "retail",
+      "warehouse"
+    ],
+    "requiredFeatures": [
+      "food_service",
+      "waste_disposal"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_1_",
+    "title": "רישיון יצורפו המסמכים הבאים:  \n)1( הצהרת בעל עסק שלא נערכו שינויים בעסק ממועד הגשת הבקשה הקודמת לרישיון \nאו חידושו",
+    "description": "רישיון יצורפו המסמכים הבאים:  \n)1( הצהרת בעל עסק שלא נערכו שינויים בעסק ממועד הגשת הבקשה הקודמת ל",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון  עסק  בהתאם  לתקנות  רישוי  עסקים  ולמטבחים \nמוסדיים",
+    "description": "רישיון  עסק  בהתאם  לתקנות  רישוי  עסקים  ולמטבחים \nמוסדיים.  \n \n*תוכן הפרסומים באחריות המפרסמים בלבד",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "office",
+      "workshop"
+    ],
+    "requiredFeatures": [
+      "food_service"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": "משרד הבריאות",
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון  יצרן ורישיון עסק בר תוקף",
+    "description": "רישיון  יצרן ו...",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_g",
+    "title": "רישיון יצרן ורישיון  \n         עסק ואישור יבוא בתוקף )כאשר רלוונטי( עם עדיפות למפעלים בעלי אישור   \n          G",
+    "description": "רישיון יצרן ו...",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון יצרן",
+    "description": "רישיון יצרן ו...",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון עסק וייוצר במפעל בעל רישיון  \n            יצרן בר תוקף",
+    "description": "רישיון עסק וייוצר במפעל בעל",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון עסק ורישיון יצרן  \nבתוקף",
+    "description": "רישיון עסק ו...",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_1291_",
+    "title": "רישיון עסק בתוקף ויעמוד בת\"י 1291 – \nרכב להובלת מזון בטמפרטורה מבוקרת )סעיפים רשמיים(",
+    "description": "רישיון עסק בתוקף ויעמוד בת\"י 1291 – \nרכב להובלת מזון בטמפרטורה מבוקרת )סעיפים רשמיים(.  \n       על הרכב להיות מותאם לסוג המזון – אותו הוא מוביל: לחם, מוצרי חלב, ביצים, מזון חם מזון \nקפוא, סלטים עם רוטב או מוצרי קונדיטוריה וכדומה",
+    "category": "safety",
+    "priority": "medium",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant"
+    ],
+    "requiredFeatures": [
+      "food_service",
+      "gas_usage"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון עסק",
+    "description": "רישיון עסק,...",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_18_1971",
+    "title": "רישיון עסק בתוקף ויעמוד בדרישת  \n\n18 \n \n            תקנות רישוי עסקים  )תנאים תברואתיים להובלת בשר, דגים, עופות ומוצריהם,  \n            תשל\"ב 1971",
+    "description": "רישיון עסק בתוקף ויעמוד בדרישת  \n\n18 \n \n            תקנות רישוי עסקים  )תנאים תברואתיים להובלת בשר, דגים, עופות ומוצריהם,  \n            תשל\"ב 1971  .   רכב  להובלת  לחם  בהתאם  לדרישות  צו  הפיקוח  של  מצרכים  ושירותים  )הובלת  לחם( \nתשכ\"א 1961",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "retail",
+      "office",
+      "warehouse"
+    ],
+    "requiredFeatures": [
+      "food_service",
+      "gas_usage",
+      "delivery",
+      "outdoor_seating"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": "משרד הבריאות",
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון יצרן",
+    "description": "רישיון יצרן ו...",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_msds_36_",
+    "title": "רישיון העסק של המדביר, של היתר הרעלים, של תוויות חוקיות \nוגיליונות הבטיחות )MSDS\n( של תכשירי הדברה שנעשה בהם שימוש, מפת האתר עם \n\n36 \n \nציון תחנות הנטור וההדברה, דוגמאות של תוויות אזהרה וכל חומר רלוונטי אחר – לפי \nחלטת המדביר והאחראי מטעם העסק",
+    "description": "רישיון העסק של המדביר, של",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "______________123_________________________________",
+    "title": "רישיון עסק \nמס מקומות ישיבה ____________  \nקוד אפיון העסק:  מס' 1,2,3 או אחר        מס' תיק פיקוח ____ _________________ \n____________ : הרשות המקומית : ____________    תאריך : ___________    מפקח/ת \n \nהערכת הציון : ירוד פחות מ 3, בינוני 4-6, טוב 7-8, טוב מאוד 9-10 \n \n \n הערות סיכום  : \n____________________________________________________________________\n__________________________________________________________________\n__________________________________________________________________\n__________________________________________________________________\n__________________________________________________________________\n__________________________________________________________________\n__________________________________________________________________\n__________________________________________________________________\n__________________________________________________________________\n__________________________________________________________________\n__________________________________________________________________\n__________________________________________________________________\n__________________________________________________________________\n__________________________________________________________________ \n16",
+    "description": "1 \nשירותים  -  ציפוי קירות \n, אביזרים             \nמס' \n11 \n1               \n16. 8 ,\nוהמיועד ל-50 איש לכל היותר ששטחו המבונה עד 150 מ\"ר לרבות סגירת חורף ועונה על תנאי \nמסלול \"",
+    "category": "health",
+    "priority": "high",
+    "sizeThreshold": 150,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant"
+    ],
+    "requiredFeatures": [
+      "food_service",
+      "delivery"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון העסק יוודא את \nביצוען של הבדיקות, הטיפולים וכל פעולה אחרת הנדרשת לצורך כך )להלן - תחזוקת \nאמצעי כיבוי אש והצלה(",
+    "description": "רישיון העסק יוודא את \nביצוען של הבדיקות, הטיפולים וכל פעולה אחרת הנדרשת לצורך כך )להלן - תחזוקת \nאמצעי כיבוי אש והצלה(.  \n)2( תחזוקת  אמצעי  כיבוי  אש  והצלה  תתבצע  לפי  הוראות  התקן  הישראלי  )ת\"י(  התקף \nוהוראות היצרן, ואם ניתנו הוראות נוספות על ידי נותן ה",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון לעבודות חשמל לפי חוק \nהחשמל, אשר רשאי ליתן אישור כאמור, בהתאם לסוג רישיונו",
+    "description": "רישיון לעבודות חשמל לפי חוק \nהחשמל, אשר רשאי ליתן",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_2006_",
+    "title": "רישיון לעבודת גפ\"מ לפי תקנות הגז )בטיחות ברישוי( )רישוי \nעסקים עבודות בגפ\"מ( תשס\"ו-2006, אשר רשאי ליתן אישור כאמור, בהתאם לסוג \nרישיונו )זאת במידה וקיימת מערכת גז בעסק(",
+    "description": "רישיון לעבודת גפ\"מ לפי תקנות הגז )בטיחות ברישוי( )רישוי \nעסקים עבודות בגפ\"מ( תשס\"ו-2006, אשר רשאי ליתן",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "office"
+    ],
+    "requiredFeatures": [
+      "gas_usage"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_1_529_",
+    "title": "רישיון עסק או להיתר זמני )להלן - בקשה( יצורפו המסמכים המנויים להלן: \n)1( אפיון  רשת  המים  המזינה  את  העסק  לפי  הטופס  שבנספח  \"בדיקת  אופיין  רשת  מים \nלמבנה על פי נוהל 529\", שנחתם על-ידי אחד מאלה: \n)א( מהנדס",
+    "description": "רישיון עסק או ל...",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון העסק יוודא את \nביצוען של הבדיקות, הטיפולים וכל פעולה אחרת הנדרשת לצורך כך )להלן - תחזוקת \nאמצעי כיבוי אש והצלה(",
+    "description": "רישיון העסק יוודא את \nביצוען של הבדיקות, הטיפולים וכל פעולה אחרת הנדרשת לצורך כך )להלן - תחזוקת \nאמצעי כיבוי אש והצלה(.  \n)2( תחזוקת  אמצעי  כיבוי  אש  והצלה  תתבצע  לפי  הוראות  התקן  הישראלי  )ת\"י(  התקף \nוהוראות היצרן, ואם ניתנו הוראות נוספות על ידי נותן ה",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון לעבודות חשמל לפי חוק החשמל, אשר \nרשאי ליתן אישור כאמור בהתאם לסוג רישיונו",
+    "description": "רישיון לעבודות חשמל לפי חוק החשמל, אשר \nרשאי ליתן",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_1988_",
+    "title": "רישיון לעבודת גפ\"מ לפי \nחוק  הגז )בטיחות ורישוי(,  התשמ\"ט-1988, אשר רשאי ליתן  אישור כאמור בהתאם \nלסוג רישיונו",
+    "description": "רישיון לעבודת גפ\"מ לפי \nחוק  הגז )בטיחות ורישוי(,  התשמ\"ט-1988, אשר רשאי ליתן",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [
+      "gas_usage"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון לעבודות חשמל לפי חוק החשמל, אשר רשאי \nליתן אישור כאמור בהתאם לסוג רישיונו",
+    "description": "רישיון לעבודות חשמל לפי חוק החשמל, אשר רשאי \nליתן",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "רישיון \nלעבודות  חשמל  על-פי  חוק  החשמל,  אשר  רשאי  ליתן  אישור  כאמור  בהתאם  לסוג \nרישיונו",
+    "description": "רישיון \nלעבודות  חשמל  על-פי  חוק  החשמל,  אשר  רשאי  ליתן",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_2_1_",
+    "title": "אישור בפריט זה \n \n\n2 \n \nתוכן עניינים \n \nפרק 1 -",
+    "description": "אישור בפריט זה \n \n\n2 \n \nתוכן עניינים \n \nפרק 1 - . הגדרות כלליות3  \nפרק 2 -",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "office"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": "משרד הבריאות",
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_7_6_",
+    "title": "אישור לפי סעיף 7 לחוק, והמסמכים הנדרשים על-פי סעיף 6ד לחוק מעסק מהסוג האמור \nבתחילת המפרט והוראות לצד  המפרט האחיד, המופיעות במפרט",
+    "description": "אישור לפי סעיף 7 לחוק, והמסמכים הנדרשים על-פי סעיף 6ד לחוק מעסק מהסוג האמור \nבתחילת המפרט והוראות לצד  המפרט האחיד, המופיעות במפרט",
+    "category": "tax",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_4_1",
+    "title": "אישור\n \n\n4 \n \n1",
+    "description": "צו רישוי עסקים )עסקים טעוני רישוי(, התשע\"ג-2013",
+    "category": "health",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "office"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_7_",
+    "title": "אישור או רשות הרישוי רשאים להוסיף תנאים ברישיון לפי סעיף 7 לחוק",
+    "description": "אישור או רשות הרישוי רשאים להוסיף תנאים ב",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_1_",
+    "title": "אישור \nהמופקד על קיום מטרה מן המטרות האמורות בסעיף 1)א( לחוק, שאי קיומה משמש עילה \nלביטול, ולאחר שניתנה לבעל הרישיון הזדמנות להשמיע את טענותיו",
+    "description": "אישור \nהמופקד על קיום מטרה מן המטרות האמורות בסעיף 1)א( לחוק, שאי קיומה משמש עילה \nלביטול, ולאחר שניתנה לבעל ה",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור  על  כל  שינוי  בעסק,  העלול  להשפיע  על  העמידה  בתנאי \nהרישיון, שלושה חודשים מראש לפחות, ויפעל לפי הנחיות נותן האישור",
+    "description": "אישור  על  כל  שינוי  בעסק,  העלול  להשפיע  על  העמידה  בתנאי \nהרישיון, שלושה חודשים מראש לפחות, ויפעל לפי הנחיות נותן האישור.  מועד תחילתן של ההוראות המפורטות בפרקים 1 )הגדרות כלליות( ו-2 )תנאים רוחביים( \nלמפרט זה הוא ביום פרסומו של המפרט",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "office"
+    ],
+    "requiredFeatures": [
+      "gas_usage"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_3",
+    "title": "אישור העסקת קטינים \n3",
+    "description": "אישור העסקת קטינים \n3.  לא יועסק במכירת משקאות משכרים מי שטרם מלאו לו 18 שנים",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [
+      "food_service",
+      "alcohol_serving"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_4",
+    "title": "אישור התקנת מז\"ח כאמור בסעיף 4",
+    "description": "אישור התקנת מז\"ח כאמור בסעיף 4",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.578Z"
+  },
+  {
+    "id": "_4",
+    "title": "אישור בדבר ביצוע  ניקוי  וחיטוי מאגרי מי שתייה ואוגרי מים חמים כאמור בסעיף \n4",
+    "description": "אישור בדבר ביצוע  ניקוי  וחיטוי מאגרי מי שתייה ואוגרי מים חמים כאמור בסעיף \n4.  \n)3( תעודות פינוי מפרידי שומן",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "office",
+      "workshop"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": "משרד הבריאות",
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור הרשות המקומית",
+    "description": "כל פתרון אחר חייב לקבל את",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור משרד הבריאות",
+    "description": "מערכות  סילוק  שפכים  בעסק  יותקנו,  יופעלו  ויתוחזקו  בהתאם  לתקנים  ולהנחיות \nהמפורטים להלן: \n\n14 \n \n)1( הל\"ת - פרקים 5 ,4 )בפרק 4 - מערכת נקזים ואוורים בבניין, בפרק 5 להל\"ת - ביב \nהבניין(.  \n)2( תקן  ישראלי  ת\"י  1205",
+    "category": "health",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "retail",
+      "office"
+    ],
+    "requiredFeatures": [
+      "food_service"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": "משרד הבריאות",
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור מהמנהל",
+    "description": "סידורים תברואיים בשירותים הציבוריים \n \n4.  מספר השירותים ומתקני התברואה יחושב לפי פרק 3 להל\"ת",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "office",
+      "warehouse"
+    ],
+    "requiredFeatures": [
+      "food_service",
+      "waste_disposal"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": "משרד הבריאות",
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_g",
+    "title": "אישור יבוא בתוקף )כאשר רלוונטי( עם עדיפות למפעלים בעלי אישור   \n          G",
+    "description": "אישור יבוא בתוקף )כאשר רלוונטי( עם עדיפות למפעלים בעלי",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור הרופא",
+    "description": "אין לעבוד במזון כשחולים במחלה מדבקת כלשהי או כשיש פצעים פתוחים \n          או מוגלתיים.    אחסון, הכנה ועיבוד המזון   \n2",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "office",
+      "workshop",
+      "warehouse"
+    ],
+    "requiredFeatures": [
+      "food_service",
+      "gas_usage",
+      "delivery"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": "1-4 ימים",
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור על כשירתו לעבוד עם מזון, מרופא שהוסמך לכך, תוך \nהתייחסות ספציפית לאפשרות של נשיאת מחלות מדבקות, העוברות באמצעות המזון, לא \nיחזור לעבודה לאחר מחלה, ללא אישור רפואי כמפורט למעלה",
+    "description": "אישור על כשירתו לעבוד עם מזון, מרופא שהוסמך לכך, תוך \nהתייחסות ספציפית לאפשרות של נשיאת מחלות מדבקות, העוברות באמצעות המזון, לא \nיחזור לעבודה לאחר מחלה, ללא",
+    "category": "health",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant"
+    ],
+    "requiredFeatures": [
+      "food_service"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור  מהאדם \nשימונה  ע\"י  העסק,  כאחראי  מטעם  העסק  לנושא",
+    "description": "אישור  מהאדם \nשימונה  ע\"י  העסק,  כאחראי  מטעם  העסק  לנושא.   המדביר  יתאם  עם  האחראי  את  כל \nהפעילות הנדרשת למניעת וחיסול המפגע",
+    "category": "health",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "retail",
+      "office",
+      "workshop"
+    ],
+    "requiredFeatures": [
+      "food_service"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור \nבכתב בחתימת המדביר האחראי לאיוד",
+    "description": "אישור \nבכתב בחתימת המדביר האחראי לאיוד",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור זה יתויק ב\"יומן ביצוע פעולות הדברה\"",
+    "description": "אישור זה יתויק ב\"יומן ביצוע פעולות הדברה\".  העסק ינהל רישום מדויק, ב\"יומן ביצוע פעולות הדברה\" של העסק",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_fifofirst_in_first_out",
+    "title": "אישור רשות הרישוי או מזון אחר באישור המנהל; \n)ד( המזון יאוחסן לפי העקרון שסחורה הנכנסת ראשונה משווקת ראשונה   \n      )FIFO-first in first out",
+    "description": "אישור רשות הרישוי או מזון אחר ב",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant"
+    ],
+    "requiredFeatures": [
+      "food_service"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_4",
+    "title": "אישור \nוטרינרי \n        \n4",
+    "description": "אישור \nוטרינרי \n        \n4. 3 \nביצים   )סימון(,   ירקות  \nופירות  \n        \n4",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "retail",
+      "workshop",
+      "warehouse"
+    ],
+    "requiredFeatures": [
+      "food_service",
+      "gas_usage"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_2013_5",
+    "title": "אישור על יסוד תצהיר\" בהתאם לצו רישוי עסקים )עסקים טעוני רישוי(, התשע\"ג-\n2013 \n \n5",
+    "description": "אישור על יסוד תצהיר\" בהתאם לצו רישוי עסקים )עסקים טעוני רישוי(, התשע\"ג-\n2013 \n \n5.  הוראות חוק הנוגעות לעניין \n5",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "office"
+    ],
+    "requiredFeatures": [
+      "gas_usage"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור - בהתאם להוראות \nאלו",
+    "description": "אישור - בהתאם להוראות \nאלו.  בעסק יותקנו שלטים שבהם נכתב \"יציאה\" מעל פתחי העסק ובמקומות בהם כיוון היציאה \nמהעסק לא נראה באופן ברור \n5",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [
+      "gas_usage"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_129_1_",
+    "title": "אישור גורם מוסמך כי מטפי הכיבוי הקיימים בעסק נבדקו בהתאם לתקן ישראלי ת\"י \n129 חלק 1, מטפים מיטלטלים - תחזוקה, ונמצאו תקינים",
+    "description": "אישור גורם מוסמך כי מטפי הכיבוי הקיימים בעסק נבדקו בהתאם לתקן ישראלי ת\"י \n129 חלק 1, מטפים מיטלטלים - תחזוקה, ונמצאו תקינים",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_1954_",
+    "title": "אישור כי מערכת החשמל המותקנת במקום, נבדקה ונמצאה תקינה בהתאמה לחוק  \nהחשמל  התשי\"ד-1954 )להלן  - חוק  החשמל(  ותקנותיו,  כולל  תאורות  החירום \nהמותקנות במקום",
+    "description": "אישור כי מערכת החשמל המותקנת במקום, נבדקה ונמצאה תקינה בהתאמה לחוק  \nהחשמל  התשי\"ד-1954 )להלן  - חוק  החשמל(  ותקנותיו,  כולל  תאורות  החירום \nהמותקנות במקום",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור לכלול התייחסות למיקום ותקינות מפסק חשמל ראשי \nלשעת חירום )במידה וקיים(, וטבלה המפרטת את מיקום לוחות החשמל, מספרם ואת \nגודל האמפר של כל לוח",
+    "description": "אישור לכלול התייחסות למיקום ותקינות מפסק חשמל ראשי \nלשעת חירום )במידה וקיים(, וטבלה המפרטת את מיקום לוחות החשמל, מספרם ואת \nגודל האמפר של כל לוח",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור יינתן על-ידי בעל רישיון לעבודות חשמל לפי חוק \nהחשמל, אשר רשאי ליתן אישור כאמור, בהתאם לסוג רישיונו",
+    "description": "אישור יינתן על-ידי בעל",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_158",
+    "title": "אישור על בדיקת התאמתה ותקינותה של מערכת הגז לדרישות תקן ישראל ת\"י 158",
+    "description": "אישור על בדיקת התאמתה ותקינותה של מערכת הגז לדרישות תקן ישראל ת\"י 158",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [
+      "gas_usage"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_2006_",
+    "title": "אישור יינתן על-ידי בעל רישיון לעבודת גפ\"מ לפי תקנות הגז )בטיחות ברישוי( )רישוי \nעסקים עבודות בגפ\"מ( תשס\"ו-2006, אשר רשאי ליתן אישור כאמור, בהתאם לסוג \nרישיונו )זאת במידה וקיימת מערכת גז בעסק(",
+    "description": "אישור יינתן על-ידי בעל",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור - עובד \nרשות הכבאות וההצלה, שהוסמך לכך על ידי השר לביטחון פנים",
+    "description": "אישור - עובד \nרשות הכבאות וההצלה, שהוסמך לכך על ידי השר לביטחון פנים.  ציוד כיבוי - ציוד, מתקנים וחומרים המשמשים לכיבוי דליקות ולמניעתן",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור על כוונה לניתוק יזום של מערכות כיבוי אש על ידו, וזאת \nלכל הפחות שבעה ימים לפני היום שבו מתוכנן הניתוק; לעניין סעיף זה, \"מערכת כיבוי \nאש\" - אחת מהמערכות הבאות, אם מתקיימת לגביה חובה להתקינה על-פי דין: גלאים, \nמתיזים, גנרטור, מערכת על לחץ ושחרור עשן",
+    "description": "בעל העסק יודיע לנותן  ה",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור באופן מידי בכל פעם שאחת ממערכות כיבוי  אש חדלה \nמלפעול",
+    "description": "אישור באופן מידי בכל פעם שאחת ממערכות כיבוי  אש חדלה \nמלפעול.  בעל העסק יפעיל את העסק תוך נקיטה והתקנת אמצעי בטיחות אש והצלה ההולמים את \nהיקף הפעילות בעסק, רמת הסיכון הנובעת מאופי הפעילות בעסק, ממספר השוהים בו, \nממיקומו, משטחו ועל פי כל דין",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.579Z"
+  },
+  {
+    "id": "_6_",
+    "title": "אישור  ניתן  לפטור  מהתקנת  גלגלון  ובתנאי             \nשיותקנו מטפי כיבוי מסוג אבקה יבשה בגודל של 6 ק\"ג",
+    "description": "אישור  ניתן  לפטור  מהתקנת  גלגלון  ובתנאי             \nשיותקנו מטפי כיבוי מסוג אבקה יבשה בגודל של 6 ק\"ג.  בעסק יוצבו מטפי כיבוי מסוג אבקה יבשה בגודל של 6 ק''ג",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": 301,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "office"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_1596",
+    "title": "אישור בכתב על התאמת תכניות מערכת המתזים והצהרת מהנדס, כי מתקיימות \nדרישות תקן ישראלי ת\"י 1596",
+    "description": "אישור בכתב על התאמת תכניות מערכת המתזים והצהרת מהנדס, כי מתקיימות \nדרישות תקן ישראלי ת\"י 1596.  העתק מתעודת בדיקה והצהרת מהנדס כמשמעותו בתקן \nהאמור יוגשו לנותן האישור",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": 50,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [
+      "gas_usage"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_536_",
+    "title": "אישור בכתב של גורם מוסמך או מהנדס על התאמת המערכות לדרישות הוראה \nמספר  536 הנ\"ל",
+    "description": "אישור בכתב של גורם מוסמך או מהנדס על התאמת המערכות לדרישות הוראה \nמספר  536 הנ\"ל",
+    "category": "tax",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור  יוגש  לנותן  האישור",
+    "description": "אישור  יוגש  לנותן  האישור.   כאשר  קיימת  מערכת  שחרור  עשן \nמאולצת יש לצרף ל",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור גם טבלת משטר בדיקה",
+    "description": "אישור גם טבלת משטר בדיקה.  מערכת  הגז  המשמשת  את  העסק  תענה  לנדרש  בתקן  ישראלי  ת\"י  158,  מתקנים  לגזים \nפחמימניים מעובים, המסופקים בתוך מכלים מיטלטלים",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [
+      "gas_usage"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_5356_2",
+    "title": "אישור בכתב על התאמת המערכת לדרישות תקן ישראלי ת\"י 5356, חלק \n2",
+    "description": "אישור בכתב על התאמת המערכת לדרישות תקן ישראלי ת\"י 5356, חלק \n2.  העתק מתעודת הבדיקה תוגש לנותן האישור",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [
+      "gas_usage"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_1_921_",
+    "title": "אישור ימציא בעל העסק מסמכים ואישורים על תקינות ציוד הכיבוי, \nובכלל זה: \n)1( אישור גורם מוסמך, כי חומרי הציפוי והגימור שבהם נעשה שימוש במבנה המשמש את \nהעסק נבדקו, ועומדים בתקן ישראלי ת\"י 921, השימוש בחומרי בנייה לפי תגובותיהם \nבשריפה",
+    "description": "אישור ימציא בעל העסק מסמכים ואישורים על תקינות ציוד הכיבוי, \nובכלל זה: \n)1(",
+    "category": "tax",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור כי כל ציוד הכיבוי במים )עמדות כיבוי, גלגלונים, ברזי כיבוי, זרנוקים, מזנקים( \nנבדק ונמצא תקין",
+    "description": "אישור כי כל ציוד הכיבוי במים )עמדות כיבוי, גלגלונים, ברזי כיבוי, זרנוקים, מזנקים( \nנבדק ונמצא תקין",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_129_1_",
+    "title": "אישור כי מטפי הכיבוי הקיימים בעסק נבדקו בהתאם לתקן ישראלי ת\"י 129, חלק 1 ,\nמטפים  מיטלטלים:  תחזוקה,  ונמצאו  תקינים",
+    "description": "אישור כי מטפי הכיבוי הקיימים בעסק נבדקו בהתאם לתקן ישראלי ת\"י 129, חלק 1 ,\nמטפים  מיטלטלים:  תחזוקה,  ונמצאו  תקינים",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור  יינתן  על-ידי  אדם  שהוסמך \nלכך על-ידי הרשות לכבאות והצלה",
+    "description": "אישור  יינתן  על-ידי  אדם  שהוסמך \nלכך על-ידי הרשות לכבאות והצלה",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_1954_",
+    "title": "אישור כי מערכת החשמל המותקנת במקום נבדקה ונמצאה תקינה, בהתאמה לחוק \nהחשמל  התשי\"ד-1954 )להלן  - חוק  החשמל(  ותקנותיו,  כולל  תאורות  החירום \nהמותקנות במקום",
+    "description": "אישור כי מערכת החשמל המותקנת במקום נבדקה ונמצאה תקינה, בהתאמה לחוק \nהחשמל  התשי\"ד-1954 )להלן  - חוק  החשמל(  ותקנותיו,  כולל  תאורות  החירום \nהמותקנות במקום",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור לכלול התייחסות למיקום ותקינות מפסק חשמל ראשי \nלשעת חירום וטבלה המפרטת את מיקום לוחות החשמל, מספרם ואת גודל האמפר \nשל כל לוח",
+    "description": "אישור לכלול התייחסות למיקום ותקינות מפסק חשמל ראשי \nלשעת חירום וטבלה המפרטת את מיקום לוחות החשמל, מספרם ואת גודל האמפר \nשל כל לוח",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור יינתן על-ידי בעל רישיון לעבודות חשמל לפי חוק החשמל, אשר \nרשאי ליתן אישור כאמור בהתאם לסוג רישיונו",
+    "description": "אישור יינתן על-ידי בעל",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_158_",
+    "title": "אישור על בדיקת התאמתה ותקינותה של מערכת הגז לדרישות תקן ישראלי ת\"י 158 ,\nלרבות התייחסות לגלאי הגפ\"מ",
+    "description": "אישור על בדיקת התאמתה ותקינותה של מערכת הגז לדרישות תקן ישראלי ת\"י 158 ,\nלרבות התייחסות לגלאי הגפ\"מ",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [
+      "gas_usage"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_1988_",
+    "title": "אישור יינתן על-ידי בעל רישיון לעבודת גפ\"מ לפי \nחוק  הגז )בטיחות ורישוי(,  התשמ\"ט-1988, אשר רשאי ליתן  אישור כאמור בהתאם \nלסוג רישיונו",
+    "description": "אישור יינתן על-ידי בעל",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור גורם מוסמך המעיד על תקינות המערכת האוטומטית לגילוי אש",
+    "description": "אישור גורם מוסמך המעיד על תקינות המערכת האוטומטית לגילוי אש",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_1220_11_",
+    "title": "אישור יוגש \nעל טופס לפי נספח ג' לתקן ישראלי ת\"י 1220, חלק 11, ויכלול גם התייחסות לתקינות \nמערכת  הגילוי,  הכיבוי  והניתוק  האוטומטי  בארונות  החשמל,  ככל  שמערכות  אלה \nמותקנות בעסק",
+    "description": "אישור יוגש \nעל טופס לפי נספח ג' לתקן ישראלי ת\"י 1220, חלק 11, ויכלול גם התייחסות לתקינות \nמערכת  הגילוי,  הכיבוי  והניתוק  האוטומטי  בארונות  החשמל,  ככל  שמערכות  אלה \nמותקנות בעסק",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_5210_1597_",
+    "title": "אישור גורם מוסמך המעיד על כך שמערכת הכיבוי המותקנת בארון החשמל נבדקה \nונמצאה  תקינה,  בהתאמה  מלאה  לתקן  ישראלי  ת\"י  5210,  מערכות  לכיבוי  אש \nבארוסול, או תקן ישראלי ת\"י 1597, מערכות כיבוי אש אוטומטיות בגז כיבוי, בהתאם \nלסוג המערכת המותקנת",
+    "description": "אישור גורם מוסמך המעיד על כך שמערכת הכיבוי המותקנת בארון החשמל נבדקה \nונמצאה  תקינה,  בהתאמה  מלאה  לתקן  ישראלי  ת\"י  5210,  מערכות  לכיבוי  אש \nבארוסול, או תקן ישראלי ת\"י 1597, מערכות כיבוי אש אוטומ...",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [
+      "gas_usage"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_59_",
+    "title": "אישור  כי  מערכת  מסירת  הודעות  )כריזת  חירום(  נבדקה  ונמצאה  תקינה,  ועל  כך \nשהמערכת כוללת ספק כוח  עצמאי,  נקודת שליטה,  ורמקולים הנשמעים בכל שטחי \n\n59 \n \nהעסק",
+    "description": "אישור  כי  מערכת  מסירת  הודעות  )כריזת  חירום(  נבדקה  ונמצאה  תקינה,  ועל  כך \nשהמערכת כוללת ספק כוח  עצמאי,  נקודת שליטה,  ורמקולים הנשמעים בכל שטחי \n\n59 \n \nהעסק",
+    "category": "tax",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור יינתן על ידי בעל רישיון לעבודות חשמל לפי חוק החשמל, אשר רשאי \nליתן אישור כאמור בהתאם לסוג רישיונו",
+    "description": "אישור יינתן על ידי בעל",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_1928",
+    "title": "אישור גורם מוסמך כי המערכת האוטומטית לכיבוי אש )ספרינקלרים( נבדקה ונמצאה \nתקינה  בהתאמה  מלאה  לתקן  ישראלי,  ת\"י  1928",
+    "description": "אישור גורם מוסמך כי המערכת האוטומטית לכיבוי אש )ספרינקלרים( נבדקה ונמצאה \nתקינה  בהתאמה  מלאה  לתקן  ישראלי,  ת\"י  1928",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור  לכלול  את  מפרט \nהבדיקה",
+    "description": "אישור  לכלול  את  מפרט \nהבדיקה",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור  כי  גנרטור  החירום  נבדק  ונמצא  תקין",
+    "description": "אישור  כי  גנרטור  החירום  נבדק  ונמצא  תקין",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור  יינתן  על-ידי  בעל  רישיון \nלעבודות  חשמל  על-פי  חוק  החשמל,  אשר  רשאי  ליתן  אישור  כאמור  בהתאם  לסוג \nרישיונו",
+    "description": "אישור  יינתן  על-ידי  בעל",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_5356_2_",
+    "title": "אישור גורם מוסמך, כי מערכת הכיבוי במנדפים )אם קיימים מנדפים( נבדקה ונמצאה \nתקינה בהתאם לדרישות תקן ישראלי ת\"י 5356, חלק 2, לרבות ניתוק ממקור אנרגיה",
+    "description": "אישור גורם מוסמך, כי מערכת הכיבוי במנדפים )אם קיימים מנדפים( נבדקה ונמצאה \nתקינה בהתאם לדרישות תקן ישראלי ת\"י 5356, חלק 2, לרבות ניתוק ממקור אנרגיה",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_536_",
+    "title": "אישור גורם מוסמך, כי מערכות בטיחות האש וההצלה תואמות את דרישות הוראה \nמספר  536,  משטר  הפעלות  מערכות בטיחות  אש-אינטגרציה",
+    "description": "אישור גורם מוסמך, כי מערכות בטיחות האש וההצלה תואמות את דרישות הוראה \nמספר  536,  משטר  הפעלות  מערכות בטיחות  אש-אינטגרציה.   כאשר  קיימת  מערכת \nשחרור עשן מאולצת, תצורף ל",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור גם טבלת משטר בדיקה ופירוט סוג המערכת",
+    "description": "אישור גם טבלת משטר בדיקה ופירוט סוג המערכת",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור גורם מוסמך או מהנדס על כך שמערכת שחרור העשן נבדקה ונמצאה תקינה",
+    "description": "אישור גורם מוסמך או מהנדס על כך שמערכת שחרור העשן נבדקה ונמצאה תקינה",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "אישור יפורט סוג המערכת שנבדקה",
+    "description": "אישור יפורט סוג המערכת שנבדקה",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_1001_",
+    "title": "אישור גורם מוסמך על כך שמערכת מיזוג האוויר המותקנת בעסק נבדקה ונמצאה \nתקינה בהתאם לדרישות תקן ישראלי ת\"י 1001, בטיחות אש בבניינים",
+    "description": "אישור גורם מוסמך על כך שמערכת מיזוג האוויר המותקנת בעסק נבדקה ונמצאה \nתקינה בהתאם לדרישות תקן ישראלי ת\"י 1001, בטיחות אש בבניינים",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_1001_6_",
+    "title": "אישור על ניקוי ארובות ומנדפים בהתאם לדרישות תקן ישראלי ת\"י 1001, חלק 6 ,\nבטיחות אש בבניינים: אוורור והגנה מפני אש במערכות בישול מסחריות",
+    "description": "אישור על ניקוי ארובות ומנדפים בהתאם לדרישות תקן ישראלי ת\"י 1001, חלק 6 ,\nבטיחות אש בבניינים: אוורור והגנה מפני אש במערכות בישול מסחריות.  בעל העסק לא יפעיל ולא יתיר לאחר להפעיל זיקוקין דינור ו/או אמצעים פירוטכניים בתוך \nהעסק, וינקוט בכל האמצעים למניעת הפעלה כאמור",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [
+      "gas_usage"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "תעודה מזהה באמצעותה ניתן לוודא את גילו",
+    "description": "תעודה מזהה באמצעותה ניתן לוודא את גילו.  \n)2( השלט יהיה עשוי מחומר קשיח, למעט קרטון, שמידותיו 40*50 ס\"מ",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": "000 ₪",
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_1",
+    "title": "תעודה וטרינרית הנדרשת על-פי כל דין, והם יבדקו בבדיקות משנה כנדרש  \n           על-פי כל דין: \n1",
+    "description": "תעודה וטרינרית הנדרשת על-פי כל דין, והם יבדקו בבדיקות משנה כנדרש  \n           על-פי כל דין: \n1.  חומר הגלם יתקבל מעסק בעל",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "תעודה רפואית, על-פי דרישת  \n        המנהל",
+    "description": "תעודה רפואית, על-פי דרישת  \n        המנהל.  עובד במטבח ,שלא קיבל",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "תעודה וטרינרית הנדרשת לפי כל דין והם יבדקו בבדיקות משנה כנדרש על פי כל \nדין: \nא",
+    "description": "תעודה וטרינרית הנדרשת לפי כל דין והם יבדקו בבדיקות משנה כנדרש על פי כל \nדין: \nא.  חומר הגלם יתקבל מעסק בעל רשיון עסק וייוצר במפעל בעל רשיון יצרן בר \nתוקף",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "office",
+      "warehouse"
+    ],
+    "requiredFeatures": [
+      "food_service",
+      "delivery",
+      "waste_disposal"
+    ],
+    "estimatedCost": null,
+    "timeToComplete": "7 ימים",
+    "authority": "משרד הבריאות",
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "היתר זמני או היתר מזורז",
+    "description": "היתר זמני או...",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_1965_",
+    "title": "היתר לשימוש חורג, לפי חוק התכנון והבנייה, התשכ\"ה-1965, לא \nיינתן רישיון לתקופה ארוכה מתוקפו של ההיתר",
+    "description": "היתר לשימוש חורג, לפי חוק התכנון והבנייה, התשכ\"ה-1965, לא \nיינתן",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "היתר זמני אם חלו שינויים מהרשום בו או במסמכים \nהמצורפים לו לגבי סוג העסק, לרבות מבניו, שטחו, הבעלות בו, מיקומו וסוג העיסוק",
+    "description": "היתר זמני אם חלו שינויים מהרשום בו או במסמכים \nהמצורפים לו לגבי סוג העסק, לרבות מבניו, שטחו, הבעלות בו, מיקומו וסוג העיסוק",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_2",
+    "title": "היתר זמני יפקע בנסיבות האמורות בסעיף 2",
+    "description": "היתר זמני יפקע בנסיבות האמורות בסעיף 2.  רשות  הרישוי  רשאית  לבטל",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_1975_",
+    "title": "היתר הדברה מטעם המשרד \nלאיכות הסביבה( ובהנחייתו ובהתאם לתקנות רישוי עסקים )הדברת מזיקים( תשל\"ה – \n1975, להלן \"התקנות\"",
+    "description": "היתר הדברה מטעם המשרד \nלאיכות הסביבה( ובהנחייתו ובהתאם לתקנות רישוי עסקים )הדברת מזיקים( תשל\"ה – \n1975, להלן \"התקנות\".  כל פעולות ההדברה, המחייבות שימוש בתכשירי הדברה יבוצעו אך ורק בנוכחות מדביר",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "office"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "היתר לאיוד",
+    "description": "המדביר  יתחיל  בפעולות  ההדברה  בעסק,  רק  לאחר  תאום  מלא  וקבלת",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_msds_36_",
+    "title": "היתר \nההדברה בתוקף, של רישיון העסק של המדביר, של היתר הרעלים, של תוויות חוקיות \nוגיליונות הבטיחות )MSDS\n( של תכשירי הדברה שנעשה בהם שימוש, מפת האתר עם \n\n36 \n \nציון תחנות הנטור וההדברה, דוגמאות של תוויות אזהרה וכל חומר רלוונטי אחר – לפי \nחלטת המדביר והאחראי מטעם העסק",
+    "description": "היתר \nההדברה בתוקף, של",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_1_529_",
+    "title": "היתר זמני )להלן - בקשה( יצורפו המסמכים המנויים להלן: \n)1( אפיון  רשת  המים  המזינה  את  העסק  לפי  הטופס  שבנספח  \"בדיקת  אופיין  רשת  מים \nלמבנה על פי נוהל 529\", שנחתם על-ידי אחד מאלה: \n)א( מהנדס",
+    "description": "היתר זמני )להלן - בקשה( יצורפו המסמכים המנויים להלן: \n)1( אפיון  רשת  המים  המזינה  את  העסק  לפי  הטופס  שבנספח  \"בדיקת  אופיין  רשת  מים \nלמבנה על פי נוהל 529\", שנחתם על-ידי אחד מאלה: \n)א( מהנדס.  \n)2( נספח  תיאור  אמצעים  לבטיחות  אש,  כאמור  בתקנה  11א  לתקנות  התכנון  והבנייה",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": 100,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "warehouse"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "היתר בנייה, ובלבד שיצורפו אליו כל אלה:  \n)א( העתק מהיתר הבנייה",
+    "description": "היתר בנייה, ובלבד שיצורפו אליו כל אלה:  \n)א( העתק מ",
+    "category": "licensing",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  },
+  {
+    "id": "_",
+    "title": "היתר בנייה, כפי שחלו במועד \nשבו  הוגשה  הבקשה  להיתר  בנייה,  ובכל  מקום  שבו  ישנה  התייחסות  במפרט  לדרישות \nהנוגעות לבטיחות אש בעסק, הן תבואנה בנוסף לדרישות תקנות אלו",
+    "description": "היתר בנייה, כפי שחלו במועד \nשבו  הוגשה  הבקשה  ל",
+    "category": "safety",
+    "priority": "high",
+    "sizeThreshold": null,
+    "seatingThreshold": null,
+    "businessTypes": [
+      "restaurant",
+      "cafe",
+      "retail"
+    ],
+    "requiredFeatures": [],
+    "estimatedCost": null,
+    "timeToComplete": null,
+    "authority": null,
+    "documentsRequired": [],
+    "renewalPeriod": "שנתי",
+    "source": "PDF Document",
+    "lastUpdated": "2025-09-10T19:29:01.580Z"
+  }
+]

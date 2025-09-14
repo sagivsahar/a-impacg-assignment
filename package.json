@@ -1,0 +1,45 @@
+{
+  "name": "business-license-system",
+  "version": "1.0.0",
+  "description": "מערכת הערכת רישוי עסקים - Business License Assessment System",
+  "main": "index.js",
+  "scripts": {
+    "install-all": "cd backend && npm install && cd ../frontend && npm install",
+    "start": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm start",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm start",
+    "build": "cd frontend && npm run build",
+    "test": "cd backend && npm test && cd ../frontend && npm test",
+    "process-data": "cd scripts && node dataProcessor.js"
+  },
+  "keywords": [
+    "business",
+    "license",
+    "assessment",
+    "ai",
+    "israel",
+    "hebrew",
+    "regulatory",
+    "compliance"
+  ],
+  "author": "Business License System Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/business-license-system.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/business-license-system/issues"
+  },
+  "homepage": "https://github.com/your-username/business-license-system#readme"
+}

@@ -1,0 +1,458 @@
+/* שאלון מדורג - עיצוב מתקדם */
+.graded-questionnaire {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+  color: #333;
+}
+
+.questionnaire-header {
+  text-align: center;
+  margin-bottom: 30px;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+}
+
+.questionnaire-header h2 {
+  color: #2c3e50;
+  margin-bottom: 10px;
+  font-size: 2.2em;
+  font-weight: 700;
+}
+
+.questionnaire-header p {
+  color: #7f8c8d;
+  font-size: 1.1em;
+  margin: 0;
+}
+
+/* פס התקדמות */
+.progress-bar {
+  margin-bottom: 30px;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 28px 20px; /* יותר מרווח למקם את העיגולים במרכז הלבן */
+  border-radius: 15px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  min-height: 96px; /* מבטיח גובה מספיק */
+}
+
+.progress-bar { position: relative; overflow: visible; }
+.progress-track {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 20px;
+  right: 20px;
+  height: 3px;
+  background: #e0e0e0;
+  z-index: 1;
+}
+.progress-sections {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  z-index: 2;
+  gap: 8px;
+  transform: translateY(-16px); /* מעלה עוד את העיגולים */
+}
+
+.progress-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  background: transparent;
+  padding: 0;
+  border-radius: 0;
+  transition: all 0.3s ease;
+}
+
+.progress-section.active {
+  background: #3498db;
+  color: white;
+  transform: scale(1.1);
+}
+
+.progress-section.disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.section-number {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: #ffffff; /* לבן נקי על הרקע הלבן */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 1.15em;
+  margin-bottom: 6px;
+  transition: all 0.3s ease;
+  z-index: 3; /* מעל לקו */
+  box-shadow: 0 1px 2px rgba(0,0,0,0.06);
+}
+
+.progress-section.active .section-number {
+  background: white;
+  color: #3498db;
+}
+
+.section-name {
+  font-size: 0.95em;
+  text-align: center;
+  font-weight: 500;
+  max-width: 110px;
+  line-height: 1.3;
+  color: #2c3e50;
+}
+
+/* קטגוריה נוכחית */
+.current-section {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  margin-bottom: 30px;
+}
+
+.current-section h3 {
+  color: #2c3e50;
+  margin-bottom: 25px;
+  font-size: 1.8em;
+  font-weight: 600;
+  text-align: center;
+  border-bottom: 3px solid #3498db;
+  padding-bottom: 15px;
+}
+
+.no-questions {
+  text-align: center;
+  padding: 40px;
+  color: #7f8c8d;
+  font-size: 1.1em;
+}
+
+/* שאלות */
+.questions-container {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+}
+
+.question-item {
+  background: #f8f9fa;
+  padding: 25px;
+  border-radius: 12px;
+  border-left: 5px solid #3498db;
+  transition: all 0.3s ease;
+}
+
+.question-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.question-label {
+  display: block;
+  font-size: 1.2em;
+  font-weight: 600;
+  color: #2c3e50;
+  margin-bottom: 15px;
+  line-height: 1.4;
+}
+
+.required {
+  color: #e74c3c;
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+/* שדות קלט */
+.question-input,
+.question-select {
+  width: 100%;
+  padding: 15px;
+  border: 2px solid #e0e0e0;
+  border-radius: 8px;
+  font-size: 1.1em;
+  transition: all 0.3s ease;
+  background: white;
+}
+
+.question-input:focus,
+.question-select:focus {
+  outline: none;
+  border-color: #3498db;
+  box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+}
+
+/* אפשרויות בוליאניות */
+.boolean-options {
+  display: flex;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.boolean-option {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 1.1em;
+  cursor: pointer;
+  padding: 10px 20px;
+  border: 2px solid #e0e0e0;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  background: white;
+}
+
+.boolean-option:hover {
+  border-color: #3498db;
+  background: #f8f9fa;
+}
+
+.boolean-option input[type="radio"] {
+  width: 18px;
+  height: 18px;
+  accent-color: #3498db;
+}
+
+/* אפשרויות מרובות */
+.multiselect-options {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.multiselect-option {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 1.1em;
+  cursor: pointer;
+  padding: 12px 15px;
+  border: 2px solid #e0e0e0;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  background: white;
+}
+
+.multiselect-option:hover {
+  border-color: #3498db;
+  background: #f8f9fa;
+}
+
+.multiselect-option input[type="checkbox"] {
+  width: 18px;
+  height: 18px;
+  accent-color: #3498db;
+}
+
+/* מידע ולידציה */
+.validation-info {
+  font-size: 0.9em;
+  color: #7f8c8d;
+  margin-top: 8px;
+  font-style: italic;
+}
+
+/* ניווט */
+.navigation {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 25px;
+  border-radius: 15px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  margin-bottom: 20px;
+}
+
+.nav-buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.nav-button {
+  padding: 15px 30px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1em;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  min-width: 150px;
+}
+
+.nav-button.prev {
+  background: #95a5a6;
+  color: white;
+}
+
+.nav-button.prev:hover {
+  background: #7f8c8d;
+  transform: translateY(-2px);
+}
+
+.nav-button.next {
+  background: #3498db;
+  color: white;
+}
+
+.nav-button.next:hover:not(:disabled) {
+  background: #2980b9;
+  transform: translateY(-2px);
+}
+
+.nav-button.submit {
+  background: #27ae60;
+  color: white;
+  font-size: 1.2em;
+  padding: 18px 35px;
+}
+
+.nav-button.submit:hover:not(:disabled) {
+  background: #229954;
+  transform: translateY(-2px);
+}
+
+.nav-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  transform: none;
+}
+
+/* מידע התקדמות */
+.progress-info {
+  text-align: center;
+  color: #7f8c8d;
+}
+
+.progress-info p {
+  margin: 5px 0;
+  font-size: 1.1em;
+}
+
+.incomplete-warning {
+  color: #e74c3c !important;
+  font-weight: 600;
+}
+
+/* כפתור חזרה */
+.questionnaire-footer {
+  text-align: center;
+}
+
+.back-button {
+  background: #e74c3c;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  border-radius: 8px;
+  font-size: 1.1em;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.back-button:hover {
+  background: #c0392b;
+  transform: translateY(-2px);
+}
+
+/* טעינה ושגיאות */
+.loading,
+.error {
+  text-align: center;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 50px;
+  border-radius: 15px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+}
+
+.loading h2,
+.error h2 {
+  color: #2c3e50;
+  margin-bottom: 20px;
+}
+
+.retry-button {
+  background: #3498db;
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  border-radius: 8px;
+  font-size: 1.1em;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: all 0.3s ease;
+}
+
+.retry-button:hover {
+  background: #2980b9;
+  transform: translateY(-2px);
+}
+
+/* אנימציות */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.question-item {
+  animation: fadeIn 0.5s ease-out;
+}
+
+/* רספונסיביות */
+@media (max-width: 768px) {
+  .graded-questionnaire {
+    padding: 15px;
+  }
+  
+  .progress-sections {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .progress-section {
+    flex: 1;
+    min-width: 80px;
+  }
+  
+  .section-name {
+    font-size: 0.8em;
+  }
+  
+  .boolean-options {
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .nav-buttons {
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .nav-button {
+    width: 100%;
+  }
+}
