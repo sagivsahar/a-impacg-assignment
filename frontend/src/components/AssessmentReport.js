@@ -70,6 +70,72 @@ const AssessmentReport = ({ result, onReset }) => {
   const generatedBy = (result?.data?.report?.generatedBy) || (result?.report?.generatedBy) || (result?.aiReport?.generatedBy) || '';
   const fallbackNotice = String(generatedBy).toLowerCase().includes('fallback');
 
+  // עיצוב תצוגה – המרת טקסט הדוח ל-HTML מודגש וקריא (RTL)
+  const escapeHtml = (unsafe) => {
+    return String(unsafe)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/\"/g, '&quot;')
+      .replace(/'/g, '&#039;');
+  };
+
+  const emphasize = (text) => {
+    return text
+      .replace(/(דרישות קריטיות|דרישות חשובות|דרישות כלליות|לוח זמנים מומלץ|מסמכים נדרשים|הערה חשובה)/g, '<strong>$1</strong>')
+      .replace(/\b(חובה|קריטי|מיידי)\b/g, '<strong>$1</strong>');
+  };
+
+  const renderReportContent = (content) => {
+    if (!content) return '';
+    const lines = String(content).split('\n');
+    let html = '';
+    let inList = false;
+
+    const closeList = () => {
+      if (inList) {
+        html += '</ul>';
+        inList = false;
+      }
+    };
+
+    lines.forEach((rawLine) => {
+      const line = rawLine.trimEnd();
+
+      // כותרות Markdown בסיסיות
+      const h3 = line.match(/^###\s+(.*)$/);
+      const h2 = line.match(/^##\s+(.*)$/);
+      const h1 = line.match(/^#\s+(.*)$/);
+      const li = line.match(/^-\s+(.*)$/);
+
+      if (h3) {
+        closeList();
+        html += `<h4>${emphasize(escapeHtml(h3[1]))}</h4>`;
+      } else if (h2) {
+        closeList();
+        html += `<h3>${emphasize(escapeHtml(h2[1]))}</h3>`;
+      } else if (h1) {
+        closeList();
+        html += `<h2>${emphasize(escapeHtml(h1[1]))}</h2>`;
+      } else if (li) {
+        if (!inList) {
+          html += '<ul dir="rtl">';
+          inList = true;
+        }
+        html += `<li>${emphasize(escapeHtml(li[1]))}</li>`;
+      } else if (line.trim() === '') {
+        closeList();
+        html += '<br/>';
+      } else {
+        closeList();
+        html += `<p>${emphasize(escapeHtml(line))}</p>`;
+      }
+    });
+
+    closeList();
+    return html;
+  };
+
   const getPriorityText = (priority) => {
     switch (priority) {
       case 'high': return 'חובה';
@@ -386,7 +452,7 @@ ${requirementsText}
           <div className="ai-content" dir="rtl" style={{ textAlign: 'right', width: '100%', maxWidth: '100%' }}>
             {(aiReport?.content || report?.fullContent || report?.content) ? (
               <div dangerouslySetInnerHTML={{ 
-                __html: (aiReport?.content || report?.fullContent || report?.content).replace(/\n/g, '<br/>') 
+                __html: renderReportContent(aiReport?.content || report?.fullContent || report?.content)
               }} />
             ) : (
               <div dir="rtl" style={{ textAlign: 'right' }}>
