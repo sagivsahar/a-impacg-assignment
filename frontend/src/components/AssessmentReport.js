@@ -66,6 +66,10 @@ const AssessmentReport = ({ result, onReset }) => {
   const complexityLevel = typeof complexity === 'string' ? complexity : (complexity?.level || 'medium');
   const complexityScore = typeof complexity === 'object' ? (complexity?.score ?? null) : null;
 
+  // זיהוי דוח גיבוי (למשל עקב מכסה/כשל API)
+  const generatedBy = (result?.data?.report?.generatedBy) || (result?.report?.generatedBy) || (result?.aiReport?.generatedBy) || '';
+  const fallbackNotice = String(generatedBy).toLowerCase().includes('fallback');
+
   const getPriorityText = (priority) => {
     switch (priority) {
       case 'high': return 'חובה';
@@ -363,9 +367,22 @@ ${requirementsText}
       {(report || aiReport) && (
         <div className="ai-report" style={{ width: '100%', maxWidth: '100%' }}>
           <div className="ai-report-header" dir="rtl" style={{ textAlign: 'right' }}>
-            <div className="ai-icon">🤖</div>
             <h2 className="ai-report-title">דוח חכם מותאם אישית</h2>
           </div>
+
+          {fallbackNotice && (
+            <div style={{
+              marginTop: '10px',
+              marginBottom: '10px',
+              padding: '12px 14px',
+              background: '#fff3cd',
+              border: '1px solid #ffeaa7',
+              borderRadius: '8px',
+              color: '#856404'
+            }} dir="rtl">
+              הדוח נוצר אוטומטית מאחר שמכסת ה־API נוצלה או שהייתה בעיית תקשורת. ייתכנו פשרות ברמת הפירוט.
+            </div>
+          )}
           <div className="ai-content" dir="rtl" style={{ textAlign: 'right', width: '100%', maxWidth: '100%' }}>
             {(aiReport?.content || report?.fullContent || report?.content) ? (
               <div dangerouslySetInnerHTML={{ 
@@ -427,7 +444,7 @@ ${requirementsText}
                       <div className="requirement-content">
                         {requirement.citation && showDetailedRequirements && (
                           <div className="exact-citation">
-                            <h4>📄 ציטוט מהמסמך הרגולטורי:</h4>
+                            <h4>ציטוט מהמסמך הרגולטורי:</h4>
                             <blockquote className="citation-text">
                               {requirement.citation}
                             </blockquote>
@@ -492,7 +509,7 @@ ${requirementsText}
                 {/* הצגת פעולות נדרשות */}
                 {requirement.actions_required && requirement.actions_required.length > 0 && (
                   <div className="required-actions">
-                    <h4>🔧 פעולות נדרשות:</h4>
+                    <h4>פעולות נדרשות:</h4>
                     <ul>
                       {requirement.actions_required.map((action, actionIndex) => (
                         <li key={actionIndex}>
@@ -506,7 +523,7 @@ ${requirementsText}
                 {/* הצגת הערות יישום */}
                 {requirement.implementation_notes && requirement.implementation_notes.length > 0 && (
                   <div className="implementation-notes">
-                    <h4>📝 הערות ליישום:</h4>
+                    <h4>הערות ליישום:</h4>
                     <ul>
                       {requirement.implementation_notes.map((note, noteIndex) => (
                         <li key={noteIndex}>{note}</li>
@@ -573,7 +590,7 @@ ${requirementsText}
       {getTotalRequirements() === 0 && (
         <div className="report-section">
           <div style={{ textAlign: 'center', padding: '40px', background: '#d4edda', borderRadius: '10px' }}>
-            <h3 style={{ color: '#155724', marginBottom: '15px' }}>🎉 מעולה!</h3>
+            <h3 style={{ color: '#155724', marginBottom: '15px' }}>מעולה!</h3>
             <p style={{ color: '#155724', fontSize: '1.1rem' }}>
               לא נמצאו דרישות רישוי ספציפיות לעסק שלך.
               <br />
@@ -633,7 +650,7 @@ ${requirementsText}
             alignItems: 'center',
             marginBottom: '20px'
           }} dir="rtl">
-            <h3 style={{ color: '#28a745', margin: 0 }}>🤖 דוח AI מקצועי</h3>
+            <h3 style={{ color: '#28a745', margin: 0 }}>דוח AI מקצועי</h3>
             <div style={{ fontSize: '0.9rem', color: '#666' }}>נוצר על ידי: {aiReport.generatedBy}</div>
           </div>
           
@@ -663,7 +680,7 @@ ${requirementsText}
         borderRadius: '8px',
         textAlign: 'center'
       }} dir="rtl">
-        <h4 style={{ color: '#856404', marginBottom: '10px' }}>⚠️ הערה חשובה</h4>
+        <h4 style={{ color: '#856404', marginBottom: '10px' }}>הערה חשובה</h4>
         <p style={{ color: '#856404', fontSize: '0.95rem' }}>
           דוח זה נוצר באופן אוטומטי ומשמש להכוונה כללית בלבד. 
           מומלץ להתייעץ עם מומחה רישוי עסקים לקבלת מידע מדויק ועדכני 
