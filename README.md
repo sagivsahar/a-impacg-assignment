@@ -75,6 +75,10 @@ business-license-system/
 - `GET /api/health` - בדיקת תקינות המערכת
 
 ## תיעוד נוסף
+- [ארכיטקטורה](docs/architecture.md)
+- [שימוש ב-AI ופרומפטים](docs/ai-usage.md)
+- [תיעוד API](docs/api.md)
 - [אסטרטגיית ניתוח PDF](docs/pdf-analysis-strategy.md)
 - [יומן פיתוח](docs/development-log.md)
+- [צילומי מסך](docs/screenshots)
 
